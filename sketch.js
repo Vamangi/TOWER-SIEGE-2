@@ -86,7 +86,7 @@ function draw() {
   text("Drag the Hexagonal Stone and Release it, to launch it towards the blocks",100,30);
 
   fill("white");
-  text("Press 'SPACE KEY' to get a second chance,",100,630);
+  text("Press 'SPACE KEY' to get a second chance,",100,600);
 
 
 ground.display()
